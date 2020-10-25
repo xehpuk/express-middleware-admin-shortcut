@@ -1,0 +1,15 @@
+{
+  "name": "express-middleware-admin-shortcut",
+  "version": "1.0.0",
+  "description": "Showcases a pattern to disjunctively combine (OR) Express middlewares used as policies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js 33333"
+  },
+  "keywords": ["express", "middleware", "admin", "disjunction"],
+  "author": "xehpuk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
